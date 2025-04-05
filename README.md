@@ -19,7 +19,7 @@ The following table explains the colors of the status LED:
 | green| successfully configure the motor drivers  | 
 | white | parsing the UART message from the GPS-module  |  
 | purple| error during parsing (can't find the time position in the string)   |  
-| blue |  error during parsing (wrong number at the time position in the string e.g. 0 or ,)   |
+| blue |  error during parsing (wrong number at the time position in the string e.g. all 0 or ,)   |
 
 How to start the robot:
 * plug in the power supply
