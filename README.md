@@ -31,4 +31,6 @@ How to start the robot:
 
 Now the controller will parse the UART message every 5 seconds. When starting for the first time, it may take a few minutes for the GPS module to receive and transmit the correct time. In this case, the LED should always alternate between white and blue until a correct time has been received. Then the robot starts to write the time and the LED should briefly light up white again every 5 seconds. 
 
+| front                  | back               |
+| ---------------------- | ---------------------- |
 | ![front](https://github.com/snech99/Clock_Robot/blob/main/pic/front.jpg) |  ![back](https://github.com/snech99/Clock_Robot/blob/main/pic/back.jpg) |
