@@ -1,5 +1,5 @@
 # Clock_Robot
-This Robot was created as part of a project in my Mechatronics course at the University of Applied Sciences Wismar: Technology, Business and Design. It was created in the Robotics course together with another student. It is a Stanford arm that uses a magnet to write the current time on a magic table. The microcontroller is the FRDM MCXA153 from NXP. The time is received by a GPS module and forwarded to the controller via UART. The motor drivers are the TMC2209, which are installed on a self-developed circuit board. Below is the repository in which the board is explained: [Repo](https://github.com/Fi-schi/StepperDriver-Shield_FRDM-MCXA153)
+This Robot was created as part of a project in my Mechatronics course at the University of Applied Sciences Wismar: Technology, Business and Design. It was created in the Robotics course together with another student. It is a Stanford arm that uses a magnet to write the current time on a magic table. The microcontroller is the FRDM MCXA153 from NXP. The time is received by a GPS module and forwarded to the controller via UART. The motor drivers are the TMC2209, which are installed on a self-developed circuit board. Here is the repository in which the board is explained: [Repo](https://github.com/Fi-schi/StepperDriver-Shield_FRDM-MCXA153)
 
 Explanation of the 5 buttons:
 
